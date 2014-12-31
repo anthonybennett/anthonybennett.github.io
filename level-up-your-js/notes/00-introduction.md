@@ -25,6 +25,6 @@ wife and their adorable children.
 
 ## Links
 
-[This Presentation](http://anthonybennett.github.io/level-up-your-js/presi.html)
-[Time Loggr (Demo)](https://github.com/anthonybennett/time-loggr)
-[My GitHub Account](https://github.com/anthonybennett)
+- [This Presentation](http://anthonybennett.github.io/level-up-your-js/presi.html)
+- [Time Loggr (Demo)](https://github.com/anthonybennett/time-loggr)
+- [My GitHub Account](https://github.com/anthonybennett)

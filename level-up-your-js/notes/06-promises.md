@@ -90,8 +90,8 @@ example.getTheData("foo").done(function (bar) {
 
 ## References and Additional Reading
 
-[Futures and Promises](http://goo.gl/cwTYz)
-[jQuery Deferred](http://goo.gl/sbcydG)
-[then() vs pipe()](http://goo.gl/eWnbX)
-[Promises vs Callbacks](http://goo.gl/JBgrP)
-[Native Promises](http://goo.gl/vTdulW)
+- [Futures and Promises](http://goo.gl/cwTYz)
+- [jQuery Deferred](http://goo.gl/sbcydG)
+- [then() vs pipe()](http://goo.gl/eWnbX)
+- [Promises vs Callbacks](http://goo.gl/JBgrP)
+- [Native Promises](http://goo.gl/vTdulW)

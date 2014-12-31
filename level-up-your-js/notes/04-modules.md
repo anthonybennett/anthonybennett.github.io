@@ -75,6 +75,6 @@ presenting users with an "API".
 
 ## References and Additional Reading
 
-[Closures](http://goo.gl/Ya0be)
-[IIFEs](http://goo.gl/qC3LYh)
-[Revealing Module Pattern](http://goo.gl/rUDVL)
+- [Closures](http://goo.gl/Ya0be)
+- [IIFEs](http://goo.gl/qC3LYh)
+- [Revealing Module Pattern](http://goo.gl/rUDVL)

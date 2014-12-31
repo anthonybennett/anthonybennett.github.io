@@ -88,7 +88,7 @@ our module, which we write as if it were a CommonJS module.
 
 ## References and Additional Reading
 
-[CommonJS Modules](http://goo.gl/85PyfY)
-[Asynchronous Module Definition](http://goo.gl/rDzj1r)
-[Why AMD?](http://goo.gl/eupnD)
-[Universal Module Definition](http://goo.gl/Kp1dy)
+- [CommonJS Modules](http://goo.gl/85PyfY)
+- [Asynchronous Module Definition](http://goo.gl/rDzj1r)
+- [Why AMD?](http://goo.gl/eupnD)
+- [Universal Module Definition](http://goo.gl/Kp1dy)

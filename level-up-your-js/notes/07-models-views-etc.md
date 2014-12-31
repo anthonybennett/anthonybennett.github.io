@@ -71,11 +71,11 @@ established libraries.
 
 ## References and Additional Reading
 
-[JS MV* Patterns](http://goo.gl/Yp9To)
-[Maria (MVC)](http://goo.gl/FUDpy)
-[Angular (MVC)](https://angularjs.org/)
-[Riot (MVP)](https://muut.com/riotjs/)
-[Knockout (MVVM)](http://knockoutjs.com/)
-[Backbone (MV*)](http://backbonejs.org/)
-[Marionette](http://marionettejs.com/)
-[React (V)](http://goo.gl/oJu0W)
+- [JS MV* Patterns](http://goo.gl/Yp9To)
+- [Maria (MVC)](http://goo.gl/FUDpy)
+- [Angular (MVC)](https://angularjs.org/)
+- [Riot (MVP)](https://muut.com/riotjs/)
+- [Knockout (MVVM)](http://knockoutjs.com/)
+- [Backbone (MV*)](http://backbonejs.org/)
+- [Marionette](http://marionettejs.com/)
+- [React (V)](http://goo.gl/oJu0W)

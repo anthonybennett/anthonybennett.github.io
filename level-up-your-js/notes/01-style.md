@@ -172,7 +172,7 @@ should look like. I lean heavily on IdiomaticJS. Feel free to disagree. :)
 		// Statements...
 	}
 ```
-  (Douglas Crockford cries when you don't use === , but I'm OK with that
+  (Douglas Crockford cries when you don't use `===`, but I'm OK with that
   as long as you know what you're doing.)
 - To check if something is defined (assuming it won't have a falsy value),
   don't bother with this:
@@ -242,13 +242,13 @@ should look like. I lean heavily on IdiomaticJS. Feel free to disagree. :)
 
 ## References and Additional Reading
 
-[JS Best Practices](http://goo.gl/8jYgu)
-[Politics and the English Language](http://goo.gl/QuHn)
-[Idiomatic JS](http://goo.gl/YXpKaP)
-[Apple's SSL/TLS Bug](http://goo.gl/DzRLNq)
-[Function Expressions vs Declarations](http://goo.gl/U2c2c)
-[Yoda Conditions](http://goo.gl/qP13vL)
-[JS The Right Way](http://goo.gl/EufBwT)
-[JS Equality Table](http://goo.gl/ZK714T)
-[Douglas Crockford's JS](http://goo.gl/oy4Tb)
-[Generation JS](http://goo.gl/3Dsncl)
+- [JS Best Practices](http://goo.gl/8jYgu)
+- [Politics and the English Language](http://goo.gl/QuHn)
+- [Idiomatic JS](http://goo.gl/YXpKaP)
+- [Apple's SSL/TLS Bug](http://goo.gl/DzRLNq)
+- [Function Expressions vs Declarations](http://goo.gl/U2c2c)
+- [Yoda Conditions](http://goo.gl/qP13vL)
+- [JS The Right Way](http://goo.gl/EufBwT)
+- [JS Equality Table](http://goo.gl/ZK714T)
+- [Douglas Crockford's JS](http://goo.gl/oy4Tb)
+- [Generation JS](http://goo.gl/3Dsncl)

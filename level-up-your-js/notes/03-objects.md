@@ -100,10 +100,10 @@ Object.observe(person, function (changes) {
 
 ## References and Additional Reading
 
-[Object.create](http://goo.gl/GBujf)
-[All IE Objects are Kinda Broken](http://goo.gl/wsmdRL)
-[Object.defineProperties](http://goo.gl/FC8kWq)
-[ES5 Getters and Setters](http://goo.gl/0eROA7)
-[Object.observe](http://goo.gl/ideGwf)
-[Data-binding Revolutions w/O.o](http://goo.gl/lByqzI)
-[The Two Pillars of JS](http://goo.gl/AAXkV6)
+- [Object.create](http://goo.gl/GBujf)
+- [All IE Objects are Kinda Broken](http://goo.gl/wsmdRL)
+- [Object.defineProperties](http://goo.gl/FC8kWq)
+- [ES5 Getters and Setters](http://goo.gl/0eROA7)
+- [Object.observe](http://goo.gl/ideGwf)
+- [Data-binding Revolutions w/O.o](http://goo.gl/lByqzI)
+- [The Two Pillars of JS](http://goo.gl/AAXkV6)

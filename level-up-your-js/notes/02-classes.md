@@ -35,7 +35,7 @@ animal.makeNoise();
 
 ## References and Additional Reading
 
-[Intro to OO JS](http://goo.gl/x0dyct)
-[Object.create](http://goo.gl/GBujf)
-[Backbone extend](http://goo.gl/X7t9I3)
-[The Two Pillars of JS](http://goo.gl/AAXkV6)
+- [Intro to OO JS](http://goo.gl/x0dyct)
+- [Object.create](http://goo.gl/GBujf)
+- [Backbone extend](http://goo.gl/X7t9I3)
+- [The Two Pillars of JS](http://goo.gl/AAXkV6)
