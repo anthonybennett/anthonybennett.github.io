@@ -1,0 +1,50 @@
+/*! normalize.css v3.0.1 | MIT License | git.io/normalize */
+
+html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}article,aside,details,figcaption,figure,footer,header,hgroup,main,nav,section,summary{display:block}audio,canvas,progress,video{display:inline-block;vertical-align:baseline}audio:not([controls]){display:none;height:0}[hidden],template{display:none}a{background:transparent}a:active,a:hover{outline:0}abbr[title]{border-bottom:1px dotted}b,strong{font-weight:bold}dfn{font-style:italic}h1{font-size:2em;margin:.67em 0}mark{background:#ff0;color:#000}small{font-size:80%}sub,sup{font-size:75%;line-height:0;position:relative;vertical-align:baseline}sup{top:-0.5em}sub{bottom:-0.25em}img{border:0}svg:not(:root){overflow:hidden}figure{margin:1em 40px}hr{-moz-box-sizing:content-box;box-sizing:content-box;height:0}pre{overflow:auto}code,kbd,pre,samp{font-family:monospace,monospace;font-size:1em}button,input,optgroup,select,textarea{color:inherit;font:inherit;margin:0}button{overflow:visible}button,select{text-transform:none}button,html input[type="button"],input[type="reset"],input[type="submit"]{-webkit-appearance:button;cursor:pointer}button[disabled],html input[disabled]{cursor:default}button::-moz-focus-inner,input::-moz-focus-inner{border:0;padding:0}input{line-height:normal}input[type="checkbox"],input[type="radio"]{box-sizing:border-box;padding:0}input[type="number"]::-webkit-inner-spin-button,input[type="number"]::-webkit-outer-spin-button{height:auto}input[type="search"]{-webkit-appearance:textfield;-moz-box-sizing:content-box;-webkit-box-sizing:content-box;box-sizing:content-box}input[type="search"]::-webkit-search-cancel-button,input[type="search"]::-webkit-search-decoration{-webkit-appearance:none}fieldset{border:1px solid silver;margin:0 2px;padding:.35em .625em .75em}legend{border:0;padding:0}textarea{overflow:auto}optgroup{font-weight:bold}table{border-collapse:collapse;border-spacing:0}td,th{padding:0}
+
+/*! fonts */
+
+@font-face {
+	font-family: "ComicNeue";
+	font-style: normal;
+	font-weight: normal;
+	src: local("ComicNeue-Angular"), url("ComicNeue-Angular-Bold.woff") format("woff");
+}
+
+/*! presentation styles */
+
+* { font-family: inherit; }
+html { font-family: "ComicNeue", serif; }
+body { background: black; }
+a { color: inherit; text-decoration: none; }
+section, div.bg, main { position: fixed; top: 0; left: 0; bottom: 0; right: 0; }
+section ~ section { display: none; }
+div.bg { opacity: 0.75; background: no-repeat center center fixed; -webkit-background-size: contain; -moz-background-size: contain; -o-background-size: contain; background-size: contain; -webkit-filter: blur(2px); filter: blur(2px); z-index: 1; -webkit-transform: translate3d(0,0,0); transform: translate3d(0,0,0); }
+main { top: 50%; text-align: center; z-index: 2; }
+h1, h2 { color: white; font-size: 6em; line-height: 1; text-shadow: 0.05em 0.1em 0.4em black; margin-top: -1em; }
+h2 { font-size: 3em; }
+div.bg.level-up-your-js { background-image: url("../img/level-up-your-js.gif"); }
+div.bg.who-is-this-guy { background-image: url("../img/tony-bennett.gif"); }
+div.bg.style { background-image: url("../img/style.gif"); }
+div.bg.whitespace { background-image: url("../img/whitespace.gif"); }
+div.bg.whitespace ~ main h1 { margin-left: 5em; }
+div.bg.whitespace ~ main h2 { margin-left: 10em; }
+div.bg.control-flow-statements { background-image: url("../img/control-flow-statements.gif"); }
+div.bg.variables { background-image: url("../img/variables.gif"); }
+div.bg.functions { background-image: url("../img/functions2.gif"); }
+div.bg.comparisons-and-type { background-image: url("../img/comparisons-and-type2.gif"); }
+div.bg.comparisons-and-type ~ main h1 { font-size: 4.5em; }
+div.bg.modules { background-image: url("../img/modules3.gif"); }
+div.bg.module-patterns { background-image: url("../img/module-patterns.gif"); }
+div.bg.classes { background-image: url("../img/classes2.gif"); }
+div.bg.objects { background-image: url("../img/objects.gif"); }
+div.bg.promises { background-image: url("../img/promises.gif"); }
+div.bg.mvc { background-image: url("../img/mvc2.gif"); }
+div.bg.mvc ~ main h1 { font-size: 4.5em; }
+div.bg.controllers { background-image: url("../img/controllers.gif"); -webkit-filter: blur(4px); filter: blur(4px); }
+div.bg.presenters { background-image: url("../img/presenters3.gif"); -webkit-filter: blur(3px); filter: blur(3px); }
+div.bg.viewmodels { background-image: url("../img/viewmodels.gif"); -webkit-filter: blur(4px); filter: blur(4px); }
+div.bg.mvstar { background-image: url("../img/mvstar.gif"); }
+div.bg.other-topics { background-image: url("../img/other-topics.gif"); }
+div.bg.time-loggr { background-image: url("../img/first3.gif"); }
+div.bg.q-and-a { background-image: url("../img/q-and-a2.gif"); }
