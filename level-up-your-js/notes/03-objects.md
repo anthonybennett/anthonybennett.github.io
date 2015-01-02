@@ -107,3 +107,5 @@ Object.observe(person, function (changes) {
 - [Object.observe](http://goo.gl/ideGwf)
 - [Data-binding Revolutions w/O.o](http://goo.gl/lByqzI)
 - [The Two Pillars of JS](http://goo.gl/AAXkV6)
+- [Creating Objects w/o Prototypes](http://goo.gl/vaXdZn)
+- [ES6 OOP Features Besides Classes](http://goo.gl/PFBrFg)

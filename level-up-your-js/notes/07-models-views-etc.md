@@ -79,3 +79,4 @@ established libraries.
 - [Backbone (MV*)](http://backbonejs.org/)
 - [Marionette](http://marionettejs.com/)
 - [React (V)](http://goo.gl/oJu0W)
+- [Opinionated Rundown of JS Frameworks](http://goo.gl/C9YeF7)

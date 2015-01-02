@@ -125,3 +125,5 @@ not using (i.e. that you can get rid of).
 - [JSHint](http://jshint.com/)
 - [JS Anti-Patterns](http://goo.gl/L0NWYb)
 - [The Two Pillars of JS](http://goo.gl/AAXkV6)
+- [Surprises from jQuery's Source](http://goo.gl/Ix9MT3)
+- [Misc JS Tricks](http://goo.gl/ocBGHB)
