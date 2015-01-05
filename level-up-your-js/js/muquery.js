@@ -19,7 +19,7 @@
 
 	// private functions, data
 	var slice = Aprototype.slice,
-		canClassList = !!Elprototype.classList,
+		canClassList = ("classList" in Elprototype),
 		classProp = (canClassList ? "classList" : "className"),
 		matches = (Elprototype.matches ||
 					Elprototype.webkitMatchesSelector ||
