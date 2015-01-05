@@ -80,3 +80,4 @@ established libraries.
 - [Marionette](http://marionettejs.com/)
 - [React (V)](http://goo.gl/oJu0W)
 - [Opinionated Rundown of JS Frameworks](http://goo.gl/C9YeF7)
+- [Why You Should Not Use AngularJS](http://goo.gl/hmrC7O)
