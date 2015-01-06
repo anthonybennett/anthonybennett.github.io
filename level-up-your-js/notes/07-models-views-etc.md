@@ -72,6 +72,7 @@ established libraries.
 ## References and Additional Reading
 
 - [JS MV* Patterns](http://goo.gl/Yp9To)
+- [Smalltalk MVC Translated to JS](http://goo.gl/5uXdsZ)
 - [Maria (MVC)](http://goo.gl/FUDpy)
 - [Angular (MVC)](https://angularjs.org/)
 - [Riot (MVP)](https://muut.com/riotjs/)

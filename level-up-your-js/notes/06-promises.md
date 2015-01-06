@@ -36,7 +36,8 @@ $.ajax({
 Now, why would we write it this way? Well, we wouldn't, necessarily,
 for trivial scenarios such as the above.
 
-But how about a more complicated scenario?
+But how about a more complicated scenario? Here, we have a function
+that _may_ run asynchronously, so we return a promise.
 
 ```javascript
 var example = {
@@ -95,3 +96,5 @@ example.getTheData("foo").done(function (bar) {
 - [then() vs pipe()](http://goo.gl/eWnbX)
 - [Promises vs Callbacks](http://goo.gl/JBgrP)
 - [Native Promises](http://goo.gl/vTdulW)
+- [ES6 Promises Polyfill](http://goo.gl/V5BC12)
+- [More on ES6 Promises](http://goo.gl/p79wD6)

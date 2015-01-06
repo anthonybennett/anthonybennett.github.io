@@ -3,7 +3,7 @@
 We've already discussed simple or "pure" modules (my term for them).
 However, there are other patterns that build on top of the idea of
 pure modules: two competing approaches (CommonJS and AMD), and the
-one to rule them all (UMD).
+one to rule them all (UMD). We'll also touch briefly on ES6 modules.
 
 ## CommonJS Modules
 
@@ -86,9 +86,27 @@ The above defines an IIFE which receives two parameters, `root` and
 and browser globals. `root` is the current context and `factory` is
 our module, which we write as if it were a CommonJS module.
 
+## ES6 Modules
+
+ECMAScript 6 is the technical name behind the next version of JS.
+By adding the `export` and `import` keywords, it will allow us to
+do the following:
+
+```javascript
+// lib.js
+export function square(x) {
+	return x * x;
+}
+
+// main.js
+import { square } from "lib";
+console.log(square(11)); // 121
+```
+
 ## References and Additional Reading
 
 - [CommonJS Modules](http://goo.gl/85PyfY)
 - [Asynchronous Module Definition](http://goo.gl/rDzj1r)
 - [Why AMD?](http://goo.gl/eupnD)
 - [Universal Module Definition](http://goo.gl/Kp1dy)
+- [ECMAScript 6 Modules](http://goo.gl/KhsR4l)

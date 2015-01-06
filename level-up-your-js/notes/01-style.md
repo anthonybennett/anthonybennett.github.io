@@ -183,9 +183,9 @@ should look like. I lean heavily on IdiomaticJS. Feel free to disagree. :)
 ```
   Or this:
 ```javascript
-    if (void 0 !== object.property) {
-        // Statements...
-    }
+	if (void 0 !== object.property) {
+		// Statements...
+	}
 ```
   Instead, simply do this:
 ```javascript
@@ -195,9 +195,15 @@ should look like. I lean heavily on IdiomaticJS. Feel free to disagree. :)
 ```
   Or this:
 ```javascript
-    if ("property" in object) {
-        // Statements...
-    }
+	if ("property" in object) {
+		// Statements...
+	}
+```
+- Side Note:
+```javascript
+    console.log([].forEach); // function
+    console.log("forEach" in []); // true
+    console.log([].hasOwnProperty("forEach")); // false
 ```
 - Another example is array length. Don't bother with:
 ```javascript

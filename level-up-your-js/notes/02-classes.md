@@ -30,7 +30,7 @@ Cat.prototype.constructor = Cat;
 
 // Instantiate a new cat and make some noise.
 var cat = new Cat("Mister Whiskers");
-animal.makeNoise();
+cat.makeNoise();
 ```
 
 ## References and Additional Reading
